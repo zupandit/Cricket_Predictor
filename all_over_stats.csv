@@ -1,0 +1,95 @@
+team,over,batter,bowler,batter_strike_rate,bowler_economy,desirable_run_rate,wicket_taken
+New Zealand,0,SP Fleming,J Srinath,0.0,2.0,6.49,0
+New Zealand,1,NJ Astle,Z Khan,50.0,5.25,6.52,0
+New Zealand,2,NJ Astle,J Srinath,42.86,1.5,6.6,1
+New Zealand,3,MS Sinclair,Z Khan,25.0,3.86,6.7,0
+New Zealand,4,MS Sinclair,J Srinath,11.11,1.33,6.82,0
+New Zealand,5,NJ Astle,Z Khan,52.17,3.9,6.89,0
+New Zealand,6,MS Sinclair,J Srinath,20.0,1.5,7.0,0
+New Zealand,7,NJ Astle,A Nehra,68.97,8.0,6.98,0
+New Zealand,8,MS Sinclair,J Srinath,52.38,2.8,6.95,0
+New Zealand,9,NJ Astle,A Nehra,80.0,8.0,6.92,0
+New Zealand,10,MS Sinclair,J Srinath,44.44,2.5,7.08,0
+New Zealand,11,NJ Astle,A Nehra,75.68,6.33,7.18,0
+New Zealand,12,MS Sinclair,Z Khan,45.95,3.46,7.32,0
+New Zealand,13,MS Sinclair,A Nehra,44.74,5.0,7.5,0
+New Zealand,14,NJ Astle,Z Khan,72.92,4.36,7.49,0
+New Zealand,15,NJ Astle,A Nehra,78.0,5.0,7.53,0
+New Zealand,16,MS Sinclair,Z Khan,40.0,4.05,7.71,0
+New Zealand,17,NJ Astle,A Nehra,75.93,4.67,7.81,0
+New Zealand,18,NJ Astle,Harbhajan Singh,74.14,4.0,7.94,0
+New Zealand,19,MS Sinclair,SB Bangar,43.86,4.0,8.07,0
+New Zealand,20,MS Sinclair,Harbhajan Singh,50.82,5.5,8.1,0
+New Zealand,21,MS Sinclair,SB Bangar,50.77,3.5,8.29,0
+New Zealand,22,MS Sinclair,Harbhajan Singh,51.52,5.0,8.44,0
+New Zealand,23,NJ Astle,SB Bangar,69.01,3.33,8.65,0
+New Zealand,24,MS Sinclair,Harbhajan Singh,52.63,5.25,8.76,0
+New Zealand,25,NJ Astle,SB Bangar,71.43,3.5,8.96,0
+New Zealand,26,MS Sinclair,Harbhajan Singh,56.1,5.6,9.04,0
+New Zealand,27,NJ Astle,SB Bangar,72.15,3.29,9.39,0
+New Zealand,28,NJ Astle,Harbhajan Singh,72.94,5.68,9.5,0
+New Zealand,29,MS Sinclair,SB Bangar,57.45,3.89,9.55,0
+New Zealand,30,MS Sinclair,SC Ganguly,57.14,3.0,9.89,0
+New Zealand,31,MS Sinclair,SB Bangar,57.0,4.74,9.89,0
+New Zealand,32,NJ Astle,SC Ganguly,78.35,3.5,10.24,1
+New Zealand,33,CD McMillan,J Srinath,150.0,3.14,10.44,0
+New Zealand,34,CD McMillan,SC Ganguly,83.33,3.67,10.87,0
+New Zealand,35,MS Sinclair,J Srinath,57.27,2.88,11.57,1
+New Zealand,36,MS Sinclair,SC Ganguly,57.02,3.75,12.15,0
+New Zealand,37,MS Sinclair,A Nehra,58.97,5.43,12.33,0
+New Zealand,38,MS Sinclair,SC Ganguly,62.18,4.8,12.64,0
+New Zealand,39,L Vincent,A Nehra,100.0,5.5,13.3,0
+New Zealand,40,L Vincent,Harbhajan Singh,95.24,5.58,14.22,0
+New Zealand,41,L Vincent,Z Khan,91.3,4.43,15.12,0
+New Zealand,42,L Vincent,Harbhajan Singh,87.5,5.27,16.86,1
+New Zealand,43,L Vincent,Z Khan,100.0,4.62,18.67,1
+New Zealand,44,BB McCullum,Harbhajan Singh,50.0,5.45,21.0,0
+New Zealand,45,L Vincent,J Srinath,106.25,3.56,24.0,1
+New Zealand,46,KD Mills,Harbhajan Singh,100.0,5.61,31.06,0
+New Zealand,47,KD Mills,Z Khan,71.43,4.58,45.27,1
+New Zealand,48,DR Tuffey,J Srinath,66.67,4.0,75.0,0
+New Zealand,49,PA Hitchcock,Z Khan,200.0,4.91,,1
+India,0,VVS Laxman,DR Tuffey,0.0,0.0,5.43,1
+India,1,VVS Laxman,KD Mills,20.0,3.0,5.5,0
+India,2,V Sehwag,DR Tuffey,11.11,3.0,5.44,0
+India,3,V Sehwag,KD Mills,33.33,3.43,5.48,0
+India,4,V Sehwag,DR Tuffey,47.37,3.79,5.49,0
+India,5,VVS Laxman,KD Mills,111.76,6.0,5.31,0
+India,6,VVS Laxman,DR Tuffey,90.48,3.23,5.41,0
+India,7,VVS Laxman,JDP Oram,86.36,3.0,5.45,0
+India,8,VVS Laxman,DR Tuffey,82.61,2.81,5.56,0
+India,9,V Sehwag,JDP Oram,44.74,3.5,5.61,0
+India,10,VVS Laxman,DR Tuffey,65.52,2.37,5.76,0
+India,11,VVS Laxman,JDP Oram,66.67,3.67,5.81,0
+India,12,VVS Laxman,KD Mills,54.05,4.67,5.97,0
+India,13,V Sehwag,JDP Oram,61.22,5.25,5.82,0
+India,14,R Dravid,KD Mills,100.0,4.36,5.91,1
+India,15,V Sehwag,JDP Oram,60.78,5.4,5.91,0
+India,16,V Sehwag,KD Mills,61.4,4.31,5.97,0
+India,17,V Sehwag,DL Vettori,60.0,3.0,6.07,0
+India,18,R Dravid,KD Mills,68.75,4.04,6.21,0
+India,19,V Sehwag,DL Vettori,60.61,6.0,6.07,0
+India,20,V Sehwag,KD Mills,62.86,4.27,6.04,0
+India,21,V Sehwag,DL Vettori,65.33,6.0,6.04,0
+India,22,R Dravid,PA Hitchcock,65.38,3.43,6.16,0
+India,23,Yuvraj Singh,DL Vettori,0.0,5.04,6.29,1
+India,24,M Kaif,PA Hitchcock,0.0,3.23,6.43,0
+India,25,M Kaif,DL Vettori,33.33,4.84,6.55,0
+India,26,M Kaif,PA Hitchcock,46.15,3.6,6.67,0
+India,27,V Sehwag,DL Vettori,68.13,5.03,6.65,0
+India,28,M Kaif,PA Hitchcock,78.95,5.11,6.48,0
+India,29,M Kaif,DL Vettori,73.91,4.88,6.56,0
+India,30,M Kaif,PA Hitchcock,65.52,4.55,6.82,0
+India,31,M Kaif,DL Vettori,63.33,5.88,6.44,0
+India,32,V Sehwag,JDP Oram,83.96,6.17,6.2,0
+India,33,M Kaif,DR Tuffey,60.61,3.14,6.07,0
+India,34,V Sehwag,JDP Oram,90.27,6.43,5.92,0
+India,35,M Kaif,DR Tuffey,63.16,3.24,6.08,1
+India,36,SB Bangar,JDP Oram,80.0,6.25,6.18,1
+India,37,Harbhajan Singh,DR Tuffey,20.0,3.11,6.6,0
+India,38,Harbhajan Singh,PA Hitchcock,63.64,4.77,6.67,0
+India,39,Harbhajan Singh,DR Tuffey,92.86,3.68,6.38,1
+India,40,Z Khan,PA Hitchcock,100.0,4.67,6.71,1
+India,41,Z Khan,KD Mills,87.5,4.34,7.0,0
+India,42,J Srinath,PA Hitchcock,60.0,4.47,7.8,0
+India,43,Z Khan,KD Mills,84.62,4.35,8.31,1
